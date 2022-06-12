@@ -11,3 +11,5 @@ MSI-Z370-TOMAHAWK-EFI-oc
 
 无线网卡：博通94360cs2
 
+![iShot_2022-06-12_15.17.41.png](https://s2.loli.net/2022/06/12/f5Mz8LlGCw6jhWq.png)
+
